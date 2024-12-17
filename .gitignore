@@ -1,0 +1,6 @@
+x64/
+.vs/
+Engine_cpp.sln
+Engine_cpp.vcxproj
+Engine_cpp.vcxproj.filters
+Engine_cpp.vcxproj.user
